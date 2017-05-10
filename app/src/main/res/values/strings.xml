@@ -12,4 +12,10 @@
     <string name="str_tie_confirm_password">Confirmar contraseña</string>
     <string name="str_btn_createaccount">Crear cuenta</string>
     <string name="str_tb_tittle">Crear cuenta</string>
+    <string name="str_tab_search">Buscar</string>
+    <string name="str_tab_home">Inicio</string>
+    <string name="str_tab_profile">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
