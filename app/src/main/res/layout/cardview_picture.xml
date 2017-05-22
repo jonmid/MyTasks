@@ -40,19 +40,12 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Hace"
-                    android:textColor="@android:color/white"
-                    android:textSize="15sp"/>
-                <TextView
                     android:id="@+id/id_txv_time_card"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="4 dias"
+                    android:text="name user"
                     android:textColor="@android:color/white"
-                    android:textSize="15sp"
-                    android:layout_marginLeft="5dp"/>
+                    android:textSize="15sp" />
             </LinearLayout>
 
             <LinearLayout
